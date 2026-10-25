@@ -1,0 +1,8 @@
+
+typer
+openai
+pydantic
+python-dotenv
+pytest
+ruff
+bandit
